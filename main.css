@@ -12,10 +12,6 @@
     margin-bottom: 20px; 
   }
   
-  .main-content {
-    padding: 20px; 
-  }
-  
   .emojis {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
